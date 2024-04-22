@@ -1,4 +1,4 @@
-# Welcome to Form Hoverboard
+# Welcome to Hoverboard
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT
